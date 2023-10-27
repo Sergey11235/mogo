@@ -1072,7 +1072,7 @@ hr {
 
 /* Copyright */
 
-.copyright{
+.copyright {
   padding: 20px 0;
   border-top: 1px solid #e5e5e5;
   text-align: center;
@@ -1080,6 +1080,10 @@ hr {
   color: #333;
 }
 
-.copyright span{
+.copyright span {
   color: #f38181;
+}
+
+.copyright a {
+  text-decoration: none;
 }
